@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 const Subscriptions = () => {
   return (
     <View>
-      <Text>Subscriptions</Text>
+      <Text>Subscriptions Page</Text>
     </View>
   );
 };
