@@ -51,7 +51,8 @@
             "./assets/fonts/PlusJakartaSans-SemiBold.ttf"
           ]
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
