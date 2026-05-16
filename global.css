@@ -84,6 +84,9 @@
   .home-user-name {
     @apply ml-4 text-2xl font-sans-bold text-primary;
   }
+  .home-user-designation {
+    @apply ml-4 text-xl font-medium text-primary/70;
+  }
 
   .home-add-icon {
     @apply size-12;
